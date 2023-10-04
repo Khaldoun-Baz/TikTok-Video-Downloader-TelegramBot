@@ -20,11 +20,9 @@ A simple and efficient Telegram bot, crafted using VB.NET, that allows users to 
 
 1. **Clone the Repository:**
     ```bash
-    git clone [Your Repo Link]
-    cd [Your Repo Name]
+    git clone TikTok-Video-Downloader-TelegramBot
+    cd Your Repo Name
     ```
-2. **Install Dependencies:**
-    [Include instructions for installing any necessary dependencies or libraries]
 
 3. **Setup Telegram Bot Token:**
     - Go to BotFather on Telegram.
@@ -46,11 +44,4 @@ A simple and efficient Telegram bot, crafted using VB.NET, that allows users to 
    - The bot will process the link.
    - Once processed, it will send back the video.
 
-## Contribution
 
-We appreciate contributions from the community to improve the bot’s functionality and performance. Feel free to:
-- Fork the project.
-- Create your feature branch (`git checkout -b feature/YourFeature`).
-- Commit your changes (`git commit -m 'Add some YourFeature'`).
-- Push to the branch (`git push origin feature/YourFeature`).
-- Open a new Pull Request.
