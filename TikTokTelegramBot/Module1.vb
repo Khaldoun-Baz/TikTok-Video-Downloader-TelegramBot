@@ -7,7 +7,7 @@ Imports Newtonsoft.Json.Linq
 
 Module Module1
 
-    Private Const Token As String = "5871781364:AAHCaPdBNuW6AtNlFUUbjLEO2F2Z0z5_zOQ"
+    Private Const Token As String = ""
     Private Const ApiUrl As String = "https://api.telegram.org/bot" & Token & "/"
     Private WithEvents client As New HttpClient()
 
